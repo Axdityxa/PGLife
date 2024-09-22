@@ -1,4 +1,4 @@
-# PG Life - A Comprehensive Platform for PG Accommodations
+# PGLife - A Comprehensive Platform for PG Accommodations
 
 PG Life is a full-stack web application designed to help users find suitable PG accommodations quickly and efficiently. Whether you're a student or a working professional, PG Life offers features to streamline your PG search process.
 
